@@ -1,4 +1,4 @@
-\# EE7209 Machine Learning Project
+# EE7209 Machine Learning Project
 
 \## Human Activity Recognition
 
